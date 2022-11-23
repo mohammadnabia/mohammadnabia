@@ -1,7 +1,9 @@
+
 <h1 align="center">👨‍💻Welcome to Nabi's GitHub👨‍💻</h1>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mohammadnabia&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 👨‍🎓 Currently a master's student in the field of **Information Technology Engineering (Multimedia Systems)** at **Shahid Beheshti University of Tehran (National University of Iran).**
+- 👨‍🎓 Currently a master's student in the field of **Information Technology Engineering (Multimedia Systems)** at **Shahid Beheshti University of Tehran (National University of Iran).** <img src="https://www.iranwatch.org/sites/default/files/shahid_beheshti_university.jpg" alt="Sbu" width="20" height="20"/></a>
 - 🎓 Graduated from the **computer engineering** department of the **University of Zanjan** 
 - 💬 Ask me about **artificial intelligence** - **image processing** - **NLP** - **front-end development**
 - 🧠 extremely excited and open to learning further things
@@ -63,8 +65,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019–present%29.svg" alt="Word" width="40" height="40"/></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" alt="PowerPoint" width="40" height="40"/></a>
 
-<h1 align="center">Github Status 📊</h1>
-<p align="center">
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadnabia&theme=github_dark" />
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/mohammadnabia/mohammadnabia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnabia&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=github_dark" />
+</a>
+<a href="https://github.com/mohammadnabia/mohammadnabia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadnabia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=github_dark" alt="Nabi's GitHub Stats" />
+</a>
+<a href="https://github.com/mohammadnabia/mohammadnabia">
+<p align="left">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadnabia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=github_dark" />
 </p>
-
+  </a>

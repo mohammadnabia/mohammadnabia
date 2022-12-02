@@ -50,6 +50,7 @@
 <h3 align="left">Softwares & Libraries</h3>
 <p align="left"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png" alt="elasticsearch" width="40" height="40"/></a>

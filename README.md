@@ -9,7 +9,7 @@
 - 🧠 extremely excited and open to learning further things
 
 <h1 align="center">Achievement 🏆</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohammadnabia&theme=onestar" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohammadnabia&theme=algolia" /></a> </p>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 

@@ -67,14 +67,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019–present%29.svg" alt="PowerPoint" width="40" height="40"/></a>
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/mohammadnabia/mohammadnabia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnabia&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=github_dark" />
-</a>
-<a href="https://github.com/mohammadnabia/mohammadnabia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadnabia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=github_dark" alt="Nabi's GitHub Stats" />
-</a>
-<a href="https://github.com/mohammadnabia/mohammadnabia">
-<p align="left">
-  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadnabia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=github_dark" />
-</p>
-  </a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadnabia&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohammadnabia&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohammadnabia&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadnabia&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadnabia&theme=nord_dark)

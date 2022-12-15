@@ -79,3 +79,6 @@
 ## 📚 GitHub Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
+*** 
+
+[![spotifygithub](https://spotify-github-profile.vercel.app/api/view.svg?uid=psycho.head&cover_image=false&theme=default&show_offline=false&background_color=4c566a&bar_color=88c0d0&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view.svg?uid=psycho.head&redirect=true)

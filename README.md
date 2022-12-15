@@ -35,7 +35,7 @@
 
 
 
-<h3 align="left">Operating Systems & IDEs</h3>
+<h3 align="left">Operating Systems & IDEs </h3>
 <p align="left"> 
   <a href="https://www.microsoft.com/en-us/windows">
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="microsft windows" width="40" height="40"/></a>
@@ -73,4 +73,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadnabia&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadnabia&theme=nord_dark)
 ***
+## &#x1f525; GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohammadnabia&theme=nord&hide_border=true&border_radius=50.2&fire=FF7B05&currStreakLabel=FF7B05&ring=C76004A9&currStreakNum=FF7B05)](https://git.io/streak-stats)
+
+## 📚 GitHub Quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+

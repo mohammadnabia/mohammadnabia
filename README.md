@@ -73,4 +73,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadnabia&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadnabia&theme=nord_dark)
 ***
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammadnabia&theme=nord)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohammadnabia&theme=nord&hide_border=true&border_radius=50.2&fire=FF7B05&currStreakLabel=FF7B05&ring=C76004A9&currStreakNum=FF7B05)](https://git.io/streak-stats)

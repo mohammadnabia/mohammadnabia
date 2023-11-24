@@ -59,7 +59,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
-  <img src="https://keras.io/img/logo.png" alt="keras" width="100" height="30"/></a>
 
   </br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019–present%29.svg" alt="Word" width="40" height="40"/></a>

@@ -21,6 +21,7 @@
 
 <h3 align="left">Front end development & graphic technologies</h3>
 <p align="left"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/></a>

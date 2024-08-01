@@ -4,7 +4,7 @@
  
 - 👨‍🎓 Currently a master's student in the field of **Information Technology Engineering (Multimedia Systems)** at **Shahid Beheshti University of Tehran (National University of Iran).** <img src="https://www.iranwatch.org/sites/default/files/shahid_beheshti_university.jpg" alt="Sbu" width="20" height="20"/></a>
 - 🎓 Graduated from the **computer engineering** department of the **University of Zanjan** 
-- 💬 Ask me about **artificial intelligence** - **image processing** - **NLP** - **front-end development**
+- 💬 Ask me about **product management** **artificial intelligence** - **image processing** - **NLP** - **front-end development**
 - 🧠 extremely excited and open to learning further things
 
 <h1 align="center">Achievement 🏆</h1>

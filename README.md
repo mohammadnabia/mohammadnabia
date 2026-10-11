@@ -2,13 +2,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mohammadnabia&label=Profile%20views&color=0e75b6&style=flat" /> </p>
  
-- 👨‍🎓 Currently a master's student in the field of **Information Technology Engineering (Multimedia Systems)** at **Shahid Beheshti University of Tehran (National University of Iran).** <img src="https://www.iranwatch.org/sites/default/files/shahid_beheshti_university.jpg" alt="Sbu" width="20" height="20"/></a>
-- 🎓 Graduated from the **computer engineering** department of the **University of Zanjan** 
-- 💬 Ask me about **product management** - **artificial intelligence** - **image processing** - **NLP** - **front-end development**
-- 🧠 extremely excited and open to learning further things
-
-<h1 align="center">Achievement 🏆</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mohammadnabia&theme=darkhub" /></a> </p>
+- 👨‍🎓 Ph.D. student in **Artificial Intelligence** at **Iran University of Science and Technology (IUST)**.
+- 🎓 M.Sc. in **Information Technology Engineering (Multimedia Systems)** from **Shahid Beheshti University**, and B.Sc. in **Computer Engineering** from the **University of Zanjan**.
+- 💼 **Product Manager & Product Designer**, connecting user needs, business goals, and technology.
+- 🔬 My research focuses on **medical image analysis**, **deep learning**, **image segmentation**, and **efficient AI models**, with experience in **transfer learning**, **domain adaptation**, and **model pruning**.
+- 💬 Ask me about **product management**, **UI/UX design**, **artificial intelligence**, **computer vision**, and **NLP**.
+- 🌱 Always learning, exploring new ideas, and turning them into practical solutions.
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
